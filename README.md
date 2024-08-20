@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <div>
   <a href="https://beacons.ai/Lucas-tsl">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucas-tsl&show_icons=true&theme=white&include_all_commits=true&count_private=true"/>
