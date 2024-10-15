@@ -16,5 +16,8 @@
   <!-- Ajout des nouvelles icônes -->
   <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="WordPress" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg">
+  <img align="center" alt="WooCommerce" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/3/3c/WooCommerce_logo.svg">
+  <img align="center" alt="Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
+  <img align="center" alt="WinSCP" height="30" width="40" src="https://winscp.net/theme/logo/favicon-32x32.png">
   <img align="center" alt="ChatGPT" height="30" width="40" src="https://avatars.githubusercontent.com/u/55930669?s=200&v=4">
 </div>
