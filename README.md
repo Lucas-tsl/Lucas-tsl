@@ -2,7 +2,7 @@
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/Lucas-tsl/count.svg" />
 </p> -->
-<h1 align="center">Hi 👋, I'm Lucas-tsl</h1>
+<h1 align="center">Hi 👋, I'm TROTESEIL LUCAS</h1>
 <h3 align="center">A passionate fullstack developer</h3>
 
 <div>
