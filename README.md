@@ -1,8 +1,4 @@
-<p align="center">
-  <img src="https://img.shields.io/github/followers/Lucas-tsl?label=Followers&style=social" />
-  <img src="https://img.shields.io/github/stars/Lucas-tsl/Lucas-tsl-1?style=social" />
-  <img src="https://profile-counter.glitch.me/Lucas-tsl/count.svg" />
-</p>
+
 
 <h1 align="center">Hi 👋, I'm TROTESEIL LUCAS</h1>
 <h3 align="center">Développeur Web | Créatif et Polyvalent</h3>
