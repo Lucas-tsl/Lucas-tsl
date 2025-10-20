@@ -78,9 +78,7 @@ Je suis toujours à la recherche de nouveaux défis, de projets créatifs et de 
 
 ### 📫 Contact & Réseaux
 <p align="left">
-  <a href="mailto:troteseil.lucas@gmail.com"><img src="https://img.shields.io/badge/Email-troteseil.lucas@gmail.com-blue?style=flat-square" /></a>
-  <a href="https://beacons.ai/Lucas-tsl"><img src="https://img.shields.io/badge/Beacons-@Lucas--tsl-blueviolet?style=flat-square" /></a>
+  <a href="mailto:troteseil.lucas@gmail.com"><img src="https://img.shields.io/badge/troteseil.lucas@gmail.com-blue?style=flat-square" /></a>
   <a href="https://linkedin.com/in/lucas-tsl"><img src="https://img.shields.io/badge/LinkedIn-Lucas--tsl-blue?style=flat-square" /></a>
-  <a href="https://twitter.com/Lucas_tsl"><img src="https://img.shields.io/badge/Twitter-Lucas__tsl-1da1f2?style=flat-square" /></a>
 </p>
 
