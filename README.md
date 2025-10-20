@@ -33,7 +33,7 @@ Je conçois, gère et optimise plusieurs sites web pour le **Groupe NOVI**, un a
 - **Optimisation** : SEO, Google Merchant Center
 
 ## 🌟 En dehors du code
-- 🌏 J'apprends le japonais (via DuoLingo)
+- 🌏 J'apprends le japonais
 - 💻 Je me forme au développement avec Swift
 - 🎮 Je m'intéresse aux jeux vidéo et au montage vidéo
 - 🏄 Fan de surf et d'escalade
