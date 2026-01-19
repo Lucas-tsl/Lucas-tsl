@@ -38,8 +38,6 @@ Je conçois, gère et optimise plusieurs sites web pour le **Groupe NOVI**, un a
 - **Lilial** (entreprise) : Bancaire
 - **Hubert** (SARL) : Agriculture
 
-## 🌐 Pourquoi me contacter ?
-Je suis toujours à la recherche de nouveaux défis, de projets créatifs et de collaborations inspirantes. N'hésitez pas à échanger avec moi !
 
 ---
 
