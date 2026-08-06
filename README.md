@@ -67,9 +67,27 @@
 </table>
 <br/>
 <!-- ============================================================= -->
+<!--              ACHIEVEMENTS & TROPHÉES GITHUB                   -->
+<!-- ============================================================= -->
+<h2 align="center">🏆 Achievements & Trophées GitHub</h2>
+<p align="center">
+  <a href="https://github.com/Lucas-tsl?achievement=pair-extraordinaire&tab=achievements"><img src="https://raw.githubusercontent.com/dawidolko/Github-Badges-Achievements/main/assets/badges/PairExtraordinaire.png" height="90" alt="Pair Extraordinaire ×2" /></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/Lucas-tsl?achievement=yolo&tab=achievements"><img src="https://raw.githubusercontent.com/dawidolko/Github-Badges-Achievements/main/assets/badges/Yolo.png" height="90" alt="YOLO" /></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/Lucas-tsl?achievement=pull-shark&tab=achievements"><img src="https://raw.githubusercontent.com/dawidolko/Github-Badges-Achievements/main/assets/badges/PullShark.png" height="90" alt="Pull Shark ×2" /></a>
+</p>
+<p align="center">
+  <sub><b>Pair Extraordinaire ×2</b>&nbsp;&nbsp;·&nbsp;&nbsp;<b>YOLO</b>&nbsp;&nbsp;·&nbsp;&nbsp;<b>Pull Shark ×2</b></sub>
+</p>
+<p align="center">
+  <img src="https://github-profile-trophy-lucastsl.vercel.app/?username=lucas-tsl&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="trophies" />
+</p>
+<br/>
+<!-- ============================================================= -->
 <!--                    COMPÉTENCES                                -->
 <!-- ============================================================= -->
-## 🔧 Mes compétences techniques
+<h2 align="center">🔧 Mes compétences techniques</h2>
 <table align="center">
   <tr>
     <td align="center"><b>💻 Développement web</b></td>
@@ -89,7 +107,7 @@
   </tr>
 </table>
 <br/>
-### 🛠️ Technologies & Outils
+<h3 align="center">🛠️ Technologies & Outils</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,html,css,php,python,mongodb,mysql,wordpress,figma,git,github&theme=dark" alt="stack" />
 </p>
@@ -102,7 +120,7 @@
 <!-- ============================================================= -->
 <!--                    BENTO — HOBBIES                            -->
 <!-- ============================================================= -->
-## 🌟 En dehors du code
+<h2 align="center">🌟 En dehors du code</h2>
 <table align="center">
   <tr>
     <td align="center">🌏<br/><b>Japonais</b><br/><sub>J'apprends la langue</sub></td>
@@ -113,29 +131,37 @@
 </table>
 <br/>
 <!-- ============================================================= -->
-<!--                    TROPHÉES                                   -->
-<!-- ============================================================= -->
-<p align="center">
-  <img src="https://github-profile-trophy-lucastsl.vercel.app/?username=lucas-tsl&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="trophies" />
-</p>
-<br/>
-<!-- ============================================================= -->
 <!--                    EXPÉRIENCE                                 -->
 <!-- ============================================================= -->
-## 📚 Un parcours dans des secteurs variés
-| Structure | Type | Secteur |
-|-----------|------|---------|
-| **Groupe NOVI** | Entreprise | 💆 Bien-être, beauté & soins |
-| **Simulegal** | Startup | 🚀 Entrepreneuriat |
-| **Alternatri** | Association | ♻️ Environnement & recyclage |
-| **Éolane** | Entreprise | 🔌 Électronique |
-| **Lilial** | Entreprise | 🏦 Bancaire |
-| **Hubert** | SARL | 🌾 Agriculture |
+<h2 align="center">📚 Un parcours dans des secteurs variés</h2>
+<table align="center">
+  <tr>
+    <th>Structure</th><th>Type</th><th>Secteur</th>
+  </tr>
+  <tr>
+    <td><b>Groupe NOVI</b></td><td>Entreprise</td><td>💆 Bien-être, beauté & soins</td>
+  </tr>
+  <tr>
+    <td><b>Simulegal</b></td><td>Startup</td><td>🚀 Entrepreneuriat</td>
+  </tr>
+  <tr>
+    <td><b>Alternatri</b></td><td>Association</td><td>♻️ Environnement & recyclage</td>
+  </tr>
+  <tr>
+    <td><b>Éolane</b></td><td>Entreprise</td><td>🔌 Électronique</td>
+  </tr>
+  <tr>
+    <td><b>Lilial</b></td><td>Entreprise</td><td>🏦 Bancaire</td>
+  </tr>
+  <tr>
+    <td><b>Hubert</b></td><td>SARL</td><td>🌾 Agriculture</td>
+  </tr>
+</table>
 <br/>
 <!-- ============================================================= -->
 <!--                    GRAPHIQUE D'ACTIVITÉ                       -->
 <!-- ============================================================= -->
-## 📈 Mon activité
+<h2 align="center">📈 Mon activité</h2>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=lucas-tsl&theme=tokyo-night&hide_border=true&bg_color=1A1B27&color=8B5CF6&line=A855F7&point=EC4899&area=true" alt="activity graph" width="95%" />
 </p>
@@ -150,7 +176,7 @@
 <!-- ============================================================= -->
 <!--                    CONTACT                                    -->
 <!-- ============================================================= -->
-## 📫 Contact & Réseaux
+<h2 align="center">📫 Contact & Réseaux</h2>
 <p align="center">
   <a href="mailto:troteseil.lucas@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
